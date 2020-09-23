@@ -39,7 +39,7 @@ class JConfig
 
 	/* Database Settings */
 	public $dbtype = 'PostgreSQL';               // Normally mysqli
-	public $host = 'localhost';              // This is normally set to localhost
+	public $host = 'ec2-3-224-97-209.compute-1.amazonaws.com';              // This is normally set to localhost
 	public $user = 'gtiiuaruoluomr';                       // DB username
 	public $password = 'fae6f2a0a12744332ad17266545e2a23d3617f1b1a562658b0bf5d198a5f5f49';                   // DB password
 	public $db = 'db0cjlbmlrd83c';                         // DB database name
